@@ -1,0 +1,15 @@
+/Users/swapnil/Desktop/Junkie/mission/Day1basics/bin/Debug/net10.0/Day1basics
+/Users/swapnil/Desktop/Junkie/mission/Day1basics/bin/Debug/net10.0/Day1basics.deps.json
+/Users/swapnil/Desktop/Junkie/mission/Day1basics/bin/Debug/net10.0/Day1basics.runtimeconfig.json
+/Users/swapnil/Desktop/Junkie/mission/Day1basics/bin/Debug/net10.0/Day1basics.dll
+/Users/swapnil/Desktop/Junkie/mission/Day1basics/bin/Debug/net10.0/Day1basics.pdb
+/Users/swapnil/Desktop/Junkie/mission/Day1basics/obj/Debug/net10.0/Day1basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swapnil/Desktop/Junkie/mission/Day1basics/obj/Debug/net10.0/Day1basics.AssemblyInfoInputs.cache
+/Users/swapnil/Desktop/Junkie/mission/Day1basics/obj/Debug/net10.0/Day1basics.AssemblyInfo.cs
+/Users/swapnil/Desktop/Junkie/mission/Day1basics/obj/Debug/net10.0/Day1basics.csproj.CoreCompileInputs.cache
+/Users/swapnil/Desktop/Junkie/mission/Day1basics/obj/Debug/net10.0/Day1basics.sourcelink.json
+/Users/swapnil/Desktop/Junkie/mission/Day1basics/obj/Debug/net10.0/Day1basics.dll
+/Users/swapnil/Desktop/Junkie/mission/Day1basics/obj/Debug/net10.0/refint/Day1basics.dll
+/Users/swapnil/Desktop/Junkie/mission/Day1basics/obj/Debug/net10.0/Day1basics.pdb
+/Users/swapnil/Desktop/Junkie/mission/Day1basics/obj/Debug/net10.0/Day1basics.genruntimeconfig.cache
+/Users/swapnil/Desktop/Junkie/mission/Day1basics/obj/Debug/net10.0/ref/Day1basics.dll
