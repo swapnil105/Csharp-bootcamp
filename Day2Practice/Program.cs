@@ -9,15 +9,50 @@ namespace _Day2Practice
     class Program
     {
         static void Main(string[] args)
-        {
-            
-            //string name = "Boss";
-            //Console.WriteLine($"i am the boss , {name} is my name");
-         
+        {  
+             Console.Write("Enter text: ");
 
-        int a = 9;
-        double b = 3.14;
-        Console.WriteLine(a + b);
+             string phrase = Console.ReadLine();
+             char grade = 'A';
+             int age = 30;
+             double price = 19.99;
+             bool isCodingFun = true;
+
+                Console.WriteLine("Phrase: " + phrase);
+                Console.WriteLine("Grade: " + grade);
+                Console.WriteLine("Age: " + age);
+                Console.WriteLine("Price: " + price);
+                
+
+             age = 31;
+             Console.WriteLine("Hey but i need my age to be " + age);
+
+
+             price = 6.78;
+             Console.WriteLine ("and i want to purchase my life for " + price);
+             Console.WriteLine(phrase .Contains("Academy"));
+            
+             Console.WriteLine(phrase .StartsWith("junkie"));
+             Console.WriteLine(phrase .EndsWith("hub"));
+             Console.WriteLine(phrase .ToUpper());
+             Console.WriteLine(phrase .ToLower());    
+             Console.WriteLine(phrase .Length);     
+                Console.WriteLine(phrase [0]);
+                Console.WriteLine(phrase [phrase.Length - 1]);
+                Console.WriteLine(phrase .Replace("junkie", "coding"));
+                Console.WriteLine(phrase [phrase.Length - 2]);
+
+               if (phrase .Contains("hub"))
+             {
+                Console.WriteLine("Found it!");
+                }
+                else
+                {
+                    Console.WriteLine("Not found");
+                }
+               
+
+     
     }
     }
 }
