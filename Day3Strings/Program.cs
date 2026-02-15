@@ -18,8 +18,8 @@ namespace _Day3Strings
                 }
         
              if (phrase .Contains("@") && phrase .Contains(".com"))
-                {
-                    Console.WriteLine("valid email");
+                { 
+                   Console.WriteLine("valid email");
                 }
                 else
                 {
