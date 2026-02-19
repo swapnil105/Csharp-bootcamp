@@ -37,7 +37,7 @@ class Program
             }
         }
     }
-                                                                                  //outside main method but still inside class
+                                                           //outside main method but still inside class
           static void ValidateEmail()
            {
         Console.Write("Enter email: ");
