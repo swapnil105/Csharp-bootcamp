@@ -1,0 +1,6 @@
+@Day8.StudentManager.Api_HostAddress = http://localhost:5191
+
+GET {{Day8.StudentManager.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
